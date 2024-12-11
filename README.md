@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Long
 - 👀 I’m interested in Machine Learning and Bioinformatics.
 - 🌱 I’m currently an AI Engineer at Viettel Telecom.
-- 
+
 - 📫 Reach me via email [duylongvctb@gmail.com](mailto:duylongvctb@gmail.com)
 
 [![Ndlongvn's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndlongvn&theme=noctis_minimus&show_icons=true&count_private=true&hide=issues)](https://github.com/ndlongvn)
