@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ndlongvn
+- 👋 Hi, I’m Long
 - 👀 I’m interested in singing, listening to music and reading novel.
 - 🌱 I’m currently learning something..
 - 💞️ I’m looking to collaborate on ...
